@@ -1,7 +1,7 @@
 ### Olá sou Dennis Romano👋
 
 - 🔭 Hoje estou iniciando no back-end
-- 🌱 Estudando java do basico ao avançado ...
+- 🌱 Programador Java Junior - Qa Enegieer junior ...
 - 👯 Contate-me no email: dennis.romano@hotmail.com
 
  <div>
