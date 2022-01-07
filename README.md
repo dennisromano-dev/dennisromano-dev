@@ -1,7 +1,7 @@
 ### Olá sou Dennis Romano👋
 
-- 🔭 Hoje estou iniciando no back-end
-- 🌱 Programador Java Junior - QA engineer junior ...
+- 🔭 Hoje atuo em suporte e desenvolvimento em isCOBOL e Java. 
+- 🌱 Programador Java / Cobol Suport Team - Interon - QA engineer. 
 - 👯 Contate-me no email: dennis.romano@hotmail.com
 
  <div>
