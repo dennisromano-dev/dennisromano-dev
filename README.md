@@ -1,7 +1,7 @@
 ### Olá sou Dennis Romano👋
 
 - 🔭 Hoje atuo em desenvolvimento Java com spring boot, micro serviços, api rest full. 
-- 🌱 Programador Java back end/ - QA engineer. 
+- 🌱 Programador Java back end/ - JavaScript Front End. 
 - 👯 Contate-me no email: dennis.romano@hotmail.com
 
  <div>
