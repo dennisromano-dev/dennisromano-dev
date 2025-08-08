@@ -2,7 +2,7 @@
 
 - 🔭 Hoje atuo em desenvolvimento Java com spring boot, micro serviços, api rest full. 
 - 🌱 Programador Java back end/ - JavaScript Front End. 
-- 👯 Contate-me no email: dennis.romano@hotmail.com
+- 👯 Contate-me no email: dennis.rmno@hotmail.com
 
  <div>
   <a href="https://github.com/dennisromano-dev">
